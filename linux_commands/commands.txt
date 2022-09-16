@@ -1,0 +1,11 @@
+ls
+ls -l
+cat 
+mkdir 
+cd 
+grep 
+ls -l
+mv 
+rm -rf 
+cp 
+
